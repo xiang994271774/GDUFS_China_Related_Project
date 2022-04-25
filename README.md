@@ -4,4 +4,4 @@ This project is a multi-language (Chinese, English, Hindi) China-related news re
 
 We can download the relevant data from the following website.
 [Download Link](https://pan.baidu.com/s/1qFJn5ix9LJ3AiZebHh2T-A)
-The key ：**dfuf **
+The password ： **dfuf **
